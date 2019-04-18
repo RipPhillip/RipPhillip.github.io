@@ -7,9 +7,8 @@ body {
     background-color: white;
     width: 71%;
     margin: 0 20%;
-    font-family:  'Open Sans', sans-serif;
+    font-family:  'Open Sans';
     font-size: 14pt;
-    font-weight: 400;
     line-height: 22pt;
 }
 
@@ -87,7 +86,7 @@ div#news .boxtitle {
 .projecttitle {
     text-align: left;
     font: 130% 'Nobile';
-    font-family: 'Nobile' serif;    
+    font-family: 'Nobile';    
 }
 
 .projectdesc {
@@ -97,7 +96,7 @@ div#news .boxtitle {
 h2.subproject {
     font: 100% 'Nobile';
     font-weight: bold;
-    font-family: 'Nobile' serif;    
+    font-family: 'Nobile';    
 }
 
 ul { padding-left: 1em; }
@@ -115,7 +114,7 @@ img.validator { border: none; }
 h1#topname {
     margin: 0px;
     font: 250% 'Nobile';
-    font-family: 'Nobile' serif;
+    font-family: 'Nobile';
     font-weight: bold;
     text-align: center;
 }
@@ -143,12 +142,12 @@ figure {
 h1 {
     margin: 0px;
     font: 170% 'Nobile';
-    font-family: 'Nobile' serif;
+    font-family: 'Nobile';
 }
 
 h3 {
     font: 100% 'Nobile';
-    font-family: 'Nobile' serif;
+    font-family: 'Nobile';
     font-weight: bold;
     margin-bottom: 1px;
 }
