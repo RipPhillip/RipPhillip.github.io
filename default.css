@@ -85,8 +85,8 @@ div#news .boxtitle {
 
 .projecttitle {
     text-align: left;
-    font: 130% 'Nobile';
-    font-family: 'Nobile';    
+    font: 130% 'Fira Sans';
+    font-family: 'Fira Sans';    
 }
 
 .projectdesc {
@@ -94,9 +94,9 @@ div#news .boxtitle {
 }
 
 h2.subproject {
-    font: 100% 'Nobile';
+    font: 100% 'Fira Sans';
     font-weight: bold;
-    font-family: 'Nobile';    
+    font-family: 'Fira Sans';    
 }
 
 ul { padding-left: 1em; }
@@ -113,8 +113,8 @@ img.validator { border: none; }
 
 h1#topname {
     margin: 0px;
-    font: 250% 'Nobile';
-    font-family: 'Nobile';
+    font: 250% 'Fira Sans';
+    font-family: 'Fira Sans';
     font-weight: bold;
     text-align: center;
 }
@@ -141,13 +141,13 @@ figure {
 
 h1 {
     margin: 0px;
-    font: 170% 'Nobile';
-    font-family: 'Nobile';
+    font: 170% 'Fira Sans';
+    font-family: 'Fira Sans';
 }
 
 h3 {
-    font: 100% 'Nobile';
-    font-family: 'Nobile';
+    font: 100% 'Fira Sans';
+    font-family: 'Fira Sans';
     font-weight: bold;
     margin-bottom: 1px;
 }
